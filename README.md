@@ -172,4 +172,4 @@ Image link:
 
 
 
-<a href='https://learn.co/lessons/markdown-style-guide' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/markdown-style-guide' title='English Style Guidelines:'>English Style Guidelines:</a> on Learn.co and start learning to code for free.</p>
